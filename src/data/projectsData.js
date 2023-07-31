@@ -15,7 +15,7 @@ export const projectsData = [
         projectDesc: 'This project aims to build an mortgage calculator to calculate the loan amount payable with interest for the loan taken.',
         tags: ['React', 'CSS', 'Material Ui'],
         code: 'https://github.com/itssebastianvannier/mortgage-calculator-app',
-        demo: '',
+        demo: 'https://seb-mortgage-calculator.vercel.app/',
         image: one
     },
     {

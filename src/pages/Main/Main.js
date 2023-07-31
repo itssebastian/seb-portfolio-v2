@@ -3,6 +3,7 @@ import { Helmet } from 'react-helmet'
 
 import { Navbar, Footer, Landing, About, Skills, Testimonials, Blog, Education, Experience, Contacts, Projects, Services, Achievement } from '../../components'
 import { headerData } from '../../data/headerData'
+import Hobbies from '../../components/Hobbies/Hobbies'
 
 function Main() {
     return (
@@ -21,6 +22,7 @@ function Main() {
             <Achievement />
             <Services />
             {/* <Testimonials /> */}
+            {/* <Hobbies/> */}
             <Blog />
             <Contacts />
             <Footer />

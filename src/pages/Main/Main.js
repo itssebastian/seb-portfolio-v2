@@ -34,9 +34,9 @@ function Main() {
       <Experience />
       <Projects />
       <Achievement />
-      <Services />
+      {/* <Services /> */}
       {/* <Testimonials /> */}
-      {/* <Hobbies/> */}
+      {/* <Hobbies /> */}
       {/* <Blog /> */}
       <Contacts />
       <Footer />

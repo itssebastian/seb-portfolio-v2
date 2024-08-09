@@ -38,9 +38,8 @@ function About() {
               <strong>AeonX Digital Solutions</strong>
             </a>{" "}
             And in the evening I play outdoor sports like basketball or cricket.
-            I spent my leisure hours seeing trendings threads and articles.
-            Right now I'm also trying a hand at full stack development and MERN.
-            I love to learn and explore new arenas.
+            I spent my leisure hours seeing trendings threads and articles. I
+            love to learn and explore new arenas.
             <br />
             <br></br>
             {aboutData.description3}
